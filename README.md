@@ -2,6 +2,28 @@
 
 > Template para a criação de repositórios de grupos de estudos
 
+## Como utilizar este template
+
+Você deve fazer um fork deste repositório em sua conta. Se você não souber como fazer um fork, da uma olhada neste artigo primeiro: [Como fazer fork de um projeto no GitHub](http://desenvolvimentoparaweb.com/miscelanea/como-fazer-fork-de-um-projeto-no-github/).
+
+Em seguida renomeie o repositório em sua conta para `temadogrupo-study-groups`. Como, por exemplo, `clojure-study-group`. Para isso acesse a aba de configurações (settings) e mudar o nome em **Repository name**.
+
+Agora basta alterar este documento para adicionar suas informações.
+
+No título do documento (template-study-group), mude de template para o tema do grupo.
+
+Onde estiver [xxx] em todo o repositório, mude para o tema do seu grupo. Como, por exemplo, `Repositório do grupo de estudos sobre Clojure do [Training Center](https://training-center.github.io).`
+
+Exemplo de repositório: [clojure-study-group](https://github.com/training-center/clojure-study-group).
+
+Com tudo isso pronto, você irá enviar o seu repositório para o Training Center. Para isso acesse a aba de configurações (settings) e clique em **transfer** na sessão **Transfer ownership**. Onde estiver para colocar o nome do usuário, coloque `training-center`.
+
+Caso você tenha qualquer dúvida sobre o processo de criação do grupo de estudos, abra uma issue em [study-group](https://github.com/training-center/study-groups).
+
+Apague tudo o que estiver depois do título até aqui.
+
+---
+
 Repositório do grupo de estudos sobre [xxx] do [Training Center](https://training-center.github.io).
 
 <p align="center">
