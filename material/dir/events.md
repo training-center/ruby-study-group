@@ -21,3 +21,6 @@
 
 ### Porto Alegre
 - [Rails Girls](http://railsgirls.com/portoalegre.html)
+
+### Florianópolis
+- [Rails Girls](http://railsgirls.com/florianopolis.html)
