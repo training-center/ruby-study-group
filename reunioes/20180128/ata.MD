@@ -6,6 +6,7 @@ Participantes:
   - Felipe Nascimento
   - Adriano Avelino
 
+Temas discutidos:
 - Thiago tem interesse em estudar mais SOLID e Ruby com OO. Está fazendo o curso
   de Rails do Jackson Pires.
 - Felipe está indo para o 4º semestre na Fatec. Já estudou C e Java. Faz estágio
