@@ -4,6 +4,7 @@ Repositório destinado a listar livros impressos ou e-books gratuitos ou pagos a
 
 ### Impressos   
 
+- [99 Bottles of OOP - Ruby Edition](https://www.sandimetz.com/99bottles/)
 - [Agile Web Development with Rails 5.1](https://amzn.to/2NLld2A)
 - [Código Limpo. Habilidades Práticas Do Agile Software ](https://amzn.to/2OVnSTV)
 - [Expressões Regulares - 5ª Edição](https://novatec.com.br/livros/expressoes-regulares-5ed/)
@@ -20,4 +21,3 @@ Repositório destinado a listar livros impressos ou e-books gratuitos ou pagos a
 - [Instant RSpec Test Driven Development How to](https://bit.ly/2NL3jNr)
 - [Ruby: Aprenda a programar na linguagem mais divertida](https://amzn.to/2Dxxz9L)
 - [Test Driven Development - Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-tdd-ruby)
-- [99 Bottles of OOP - Ruby Edition](https://www.sandimetz.com/99bottles/)
