@@ -32,4 +32,4 @@ Basta responder [este formulário](https://goo.gl/forms/EQvMnIZuoKvBZCDw1) para 
 
 ## Responsáveis
 
-Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@gionaufal` no Slack do Training Center.
+Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, acesse o canal `#ruby-studies` no Slack do Training Center.
