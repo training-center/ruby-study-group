@@ -1,3 +1,13 @@
 ## Sites sobre Ruby
 
+- [Awesome Ruby](http://awesome-ruby.com)
+- [Big Binary](https://blog.bigbinary.com/)
+- [Everyday Rails](https://www.everydayrails.com/)
+- [Official Rails Blog](http://weblog.rubyonrails.org/)
 - [Ruby nos trilhos](http://rubynostrilhos.com.br/)
+- [Ruby Steps](https://www.rubysteps.com)
+- [Ruby Flow Blog](http://www.rubyflow.com/)
+- [Ruby Tapas](https://www.rubytapas.com/)
+- [Ruby Inside](http://www.rubyinside.com/)
+- [Rails Brigde](https://blog.railsbridge.org/)
+- [Thoughtbot Blog](http://robots.thoughtbot.com/tags/rails)
