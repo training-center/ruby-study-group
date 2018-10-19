@@ -11,7 +11,9 @@ Repositório destinado a listar cursos gratuitos ou pagos.
     - [Projecto torne-se Programador - Ruby](https://www.youtube.com/watch?v=Y8YuI1zDnHg&list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0)
 - Avançado
      - [Curso de Ruby on Rails - Jackson Pires](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
-     
+- Todos Níveis
+     - [Exercism](https://exercism.io/tracks/ruby)
+
 ### Pagos
 
 - Básico
