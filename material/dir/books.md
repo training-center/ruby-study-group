@@ -2,7 +2,7 @@
 
 Repositório destinado a listar livros impressos ou e-books gratuitos ou pagos auxiliando no processo de aprendizagem dos membros do grupo de estudos.
 
-### Impressos   
+### Impressos
 
 - [99 Bottles of OOP - Ruby Edition](https://www.sandimetz.com/99bottles/)
 - [Agile Web Development with Rails 5.1](https://amzn.to/2NLld2A)
@@ -13,6 +13,7 @@ Repositório destinado a listar livros impressos ou e-books gratuitos ou pagos a
 - [Practical Object-Oriented Design: An Agile Primer Using Ruby - 2nd Edition](https://amzn.to/2Dzs1LL)
 - [The Ruby Way: Solutions and Techniques in Ruby Programming - 3rd Edition](https://amzn.to/2NJzcpE)
 - [Use a Cabeça Ruby](https://amzn.to/2IqtPpv)
+- [Ruby Under A Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
 
 ### eBooks
 
