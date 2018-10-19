@@ -7,6 +7,7 @@ Repositório destinado a listar cursos gratuitos ou pagos.
 - Básico
     - [Curso Completo de Ruby - One Bit Code](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
     - [Codecademy - Ruby](https://www.codecademy.com/catalog/language/ruby)
+    - [Learn Ruby in one video](https://www.youtube.com/watch?v=Dji9ALCgfpM)
 - Intermediário
     - [Projecto torne-se Programador - Ruby](https://www.youtube.com/watch?v=Y8YuI1zDnHg&list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0)
 - Avançado
