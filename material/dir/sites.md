@@ -12,6 +12,7 @@
 - [Ruby Flow Blog](http://www.rubyflow.com/)
 - [Ruby Tapas](https://www.rubytapas.com/)
 - [Ruby Inside](http://www.rubyinside.com/)
+- [Ruby Me](https://rubyme.org)
 - [Rails Brigde](https://blog.railsbridge.org/)
 - [Thoughtbot Blog](http://robots.thoughtbot.com/tags/rails)
 - [The Odin Project](https://www.theodinproject.com/home)
