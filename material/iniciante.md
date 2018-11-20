@@ -39,4 +39,3 @@
 		- for
 		- until
 - Operadores lógicos
-- Procs e lambdas
