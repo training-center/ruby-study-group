@@ -1,6 +1,6 @@
 ## Roadmap de estudos sobre Ruby
 
-Este documento é vivo, onde todo membro do grupo de estudos pode propor:
+Este é documento que qualquer membro do grupo de estudos pode propor:
  - Inclusões.
  - Alterações
  - Atualizações.
