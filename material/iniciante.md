@@ -1,0 +1,41 @@
+# Nível: Iniciante
+
+- O que é Ruby?
+- Instalando Ruby
+	- Ubuntu
+	- OSX
+	- Windows
+- Gerenciando versões do Ruby
+	- Rbenv
+	- RVM
+- Instalando um interpretador Ruby
+- Tipos básicos
+	- Fixnums
+	- Bignums
+	- Ponto flutuante
+	- Racionais
+	- Booleanos
+	- Nulos
+	- Strings
+		- Substrings
+		- Concatenando Strings
+		- Encoding
+- Váriaveis e Atribuições
+- Congelando objetos
+- Símbolos
+- Arrays e Iteradores
+- Duck Typing
+- Ranges
+- Hashes
+- Conversões de tipos
+- Conversões de bases
+- Estruturas de controle
+	- Condicionais
+      	- if
+      	- unless
+      	- case
+	- Loops
+		- while
+		- for
+		- until
+- Operadores lógicos
