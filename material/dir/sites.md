@@ -14,6 +14,7 @@
 - [Ruby Inside](http://www.rubyinside.com/)
 - [Ruby Me](https://rubyme.org)
 - [Rails Brigde](https://blog.railsbridge.org/)
+- [Ruby Rogue](https://dev.to/rubyrogues)
 - [Thoughtbot Blog](http://robots.thoughtbot.com/tags/rails)
 - [The Odin Project](https://www.theodinproject.com/home)
 - [Videos de TI](https://www.videosdeti.com.br/)
