@@ -7,7 +7,6 @@
 - [Official Rails Blog](http://weblog.rubyonrails.org/)
 - [OneBitCode](https://onebitcode.com/)
 - [Pro Rails Blog](https://prograils.com/blog)
-- [Ruby nos trilhos](http://rubynostrilhos.com.br/)
 - [Ruby Steps](https://www.rubysteps.com)
 - [Ruby Flow Blog](http://www.rubyflow.com/)
 - [Ruby Tapas](https://www.rubytapas.com/)
