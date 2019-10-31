@@ -21,3 +21,4 @@ Repositório destinado a listar cursos gratuitos ou pagos.
   - [Curso Completo de Ruby on Rails 5](https://www.udemy.com/rubyonrails-5x/)
 - Avançado
   - [Curso Ruby on Rails - Eustáquio Rangel](http://www.bluefish.com.br/curso-ruby-on-rails)
+  - [Curso Automação de Testes - QA Ninja](https://fullstack.qaninja.io/)
